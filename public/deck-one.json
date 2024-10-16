@@ -1,0 +1,128 @@
+[
+    {
+        "id": "d1_a_1",
+        "description": "tree",
+        "frontImageLink": "./deck-one/a_1.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_a_2",
+        "description": "tree",
+        "frontImageLink": "./deck-one/a_2.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_b_3",
+        "description": "sun",
+        "frontImageLink": "./deck-one/b_3.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_b_4",
+        "description": "sun",
+        "frontImageLink": "./deck-one/b_4.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_c_5",
+        "description": "owl",
+        "frontImageLink": "./deck-one/c_5.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_c_6",
+        "description": "owl",
+        "frontImageLink": "./deck-one/c_6.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_d_7",
+        "description": "squirrel",
+        "frontImageLink": "./deck-one/d_7.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_d_8",
+        "description": "squirrel",
+        "frontImageLink": "./deck-one/d_8.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_e_9",
+        "description": "night sky",
+        "frontImageLink": "./deck-one/e_9.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_e_10",
+        "description": "night sky",
+        "frontImageLink": "./deck-one/e_10.svg",
+        "backImageLink": "./deck-one/back_21.svg" 
+    },
+    {
+        "id": "d1_f_11",
+        "description": "evergreens",
+        "frontImageLink": "./deck-one/f_11.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_f_12",
+        "description": "evergreens",
+        "frontImageLink": "./deck-one/f_12.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_g_13",
+        "description": "autumn leaves",
+        "frontImageLink": "./deck-one/g_13.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_g_14",
+        "description": "autumn leaves",
+        "frontImageLink": "./deck-one/g_14.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_h_15",
+        "description": "river",
+        "frontImageLink": "./deck-one/h_15.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_h_16",
+        "description": "river",
+        "frontImageLink": "./deck-one/h_16.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_i_17",
+        "description": "sunflower",
+        "frontImageLink": "./deck-one/i_17.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_i_18",
+        "description": "sunflower",
+        "frontImageLink": "./deck-one/i_18.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_j_19",
+        "description": "robin",
+        "frontImageLink": "./deck-one/j_19.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_j_20",
+        "description": "robin",
+        "frontImageLink": "./deck-one/j_20.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    },
+    {
+        "id": "d1_back_21",
+        "description": "star",
+        "frontImageLink": "./deck-one/back_21.svg",
+        "backImageLink": "./deck-one/back_21.svg"
+    }
+]

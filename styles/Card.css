@@ -1,0 +1,11 @@
+
+.not-matched:hover {
+    transform: scale(1.03);
+}
+
+
+.matched {
+    opacity: 0.7;
+    /* filter: ; */
+    filter: grayscale(50%) blur(2px);
+}

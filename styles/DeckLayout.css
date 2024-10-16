@@ -1,0 +1,61 @@
+
+.full-deck {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(6, auto);
+    gap: 1em;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+
+.full-deck img {
+    height: 7em;
+    width: 7em;
+    border-radius: 2%;  
+    vertical-align: middle;
+}
+
+
+
+.game-page {
+    width: 100%;
+}
+
+.game-page button {
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    border: 0px;
+    border-radius: 2px;
+    margin-top: 2em;
+    margin: 0 1em;
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    z-index: 10;
+    width: 15em;
+  }
+
+
+  .modal-text {
+    align-items: center;
+    font-size: 1.25rem;
+  }
+
+  .modal-button button {
+    background-color: lightgrey;
+    border: 1px solid darkgray;
+    cursor: pointer;
+    margin-bottom: 1rem;
+  }
+
